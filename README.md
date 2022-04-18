@@ -1,5 +1,5 @@
 # INF133 - Food Codex
-Avineesh Kompella, Andrew Ha, Matthew Corpus
+Avineesh Kompella (https://github.com/avithesun), Andrew Ha (https://github.com/anha97), Matthew Corpus (https://github.com/matthewcorpus)
 
 ## Overview: 
 The codex project displays a desktop-friendly database of different foods and their categories, as provided by TheMealDB API. Once the codex loads, the user is given a display of random foods. When one of these items is hovered over or clicked by the user, information about it is displayed on the right side of the screen. This information mainly revolves around the recipe for that dish, 
