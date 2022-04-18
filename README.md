@@ -6,10 +6,10 @@ The codex project displays a desktop-friendly database of different foods and th
 
 
 To run the Food Codex:
-- 1. Install Angular within the food-codex file
-- 2. Type the command 'cd food-codex' inside of the terminal to go food-codex folder
-- 3. Run the command 'ng serve' inside of the terminal
-- 4. Be amazed
+1. Install Angular within the food-codex file
+2. Type the command 'cd food-codex' inside of the terminal to go food-codex folder
+3. Run the command 'ng serve' inside of the terminal
+4. Be amazed
 
 ## Features:
 - Loading the page for the first time will load 20 random food cards on the left
