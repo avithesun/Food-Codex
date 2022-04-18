@@ -1,7 +1,7 @@
-INF133 - Food Codex
+# INF133 - Food Codex
 Avineesh Kompella, Andrew Ha, Matthew Corpus
 
-Overview: 
+## Overview: 
 The codex project displays a desktop-friendly database of different foods and their categories, as provided by TheMealDB API. Once the codex loads, the user is given a display of random foods. When one of these items is hovered over or clicked by the user, information about it is displayed on the right side of the screen. This information mainly revolves around the recipe for that dish, 
 including a picture, a description (including ingredients), and instructions on how to prepare it. This recipe codex provides convenient and helpful information for users in a user-friendly and appealing manner. We utilized HTML, CSS, TypeScript, Bootstrap, and Angular for the codex project.
 
@@ -12,7 +12,7 @@ To run the Food Codex:
     3 - Run the command 'ng serve' inside of the terminal
     4 - Be amazed
 
-Features:
+## Features:
     - Loading the page for the first time will load 20 random food cards on the left
     - Users can hover over any cards on the left, and it’s information will be displayed on the right side of the screen
     - Cards on the left include a thumbnail image, the name of the food, its area and its category
@@ -23,11 +23,11 @@ Features:
     - Clicking on a category will display all the food cards in that category
     - Users can also click the “Randomize!” button to display another 20 random food cards
 
-Notes:
+## Notes:
     - This app is not compatible for small-screen devices. 
     - The search bar bonus feature was not implemented in the final app.
 
-Resources/References:
+## Resources/References:
 https://angular.io/guide/inputs-outputs (Parent/Child)
 https://angular.io/guide/component-overview (Component)
 https://angular.io/guide/two-way-binding (Two-way bindings)
